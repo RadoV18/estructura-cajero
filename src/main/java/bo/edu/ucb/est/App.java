@@ -7,8 +7,7 @@ public class App {
 
         Cliente c1 = new Cliente("Juan Perez", "jperez", "3333");
         Cliente c2 = new Cliente("Maria Gomez", "mgomez", "4444");
-        //TODO corregir nombre
-        Cliente c3 = new Cliente("Juan Perez", "jperez", "3333");
+        Cliente c3 = new Cliente("Carlos Gomez", "cgomez", "3333");
 
         Cuenta cu1 = new Cuenta(111122, true, Cuenta.CAJA_AHORROS, 12000);
         Cuenta cu2 = new Cuenta(112211, false, Cuenta.CUENTA_CORRIENTE, 100);
