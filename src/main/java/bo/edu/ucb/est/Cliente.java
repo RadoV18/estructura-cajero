@@ -5,7 +5,7 @@ public class Cliente {
 
     private String nombre;
     private String codigoCliente;
-    //String para permitir que se ingrese 0000 u otros valores
+    //String para permitir que se ingrese 0000
     private String pin;
     private ArrayList<Cuenta> cuentas;
 
